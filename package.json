@@ -1,0 +1,16 @@
+{
+  "name": "kean-theme",
+  "version": "1.0.0",
+  "description": "Kean theme for wordpress",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kean Duque",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^26.19.0"
+  }
+}
