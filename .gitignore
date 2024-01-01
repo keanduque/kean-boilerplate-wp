@@ -11,7 +11,7 @@
 /wp-content/plugins/index.php
 /wp-content/themes/index.php
 /wp-includes/
-/index.php
+# /index.php
 /license.txt
 /readme.html
 /wp-*.php
@@ -40,8 +40,6 @@ local-*
 
 # ignore node dependency directories (used by grunt)
 node_modules/
-build/
-build/*
 
 # ignore OS generated files
 ehthumbs.db

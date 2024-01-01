@@ -1,4 +1,5 @@
 import './styles/main.scss'
+import './scripts/bootstrap.bundle.min.js'
 import Person from './scripts/Person'
 import ExampleReactComponent from './scripts/ExampleReactComponent'
 import React from 'react'
